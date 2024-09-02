@@ -1,0 +1,1 @@
+siege -c 100 -t 30S 'http://localhost:9091/aof?message=message'
